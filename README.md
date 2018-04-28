@@ -1,3 +1,6 @@
+# WORK IN PROGRESS
+
+We're at maybe 50% of the way to minimum viable product..? Don't expect this to be useful right now.
 # Gigo
 
 A module for generating unit tests for Powershell modules.
