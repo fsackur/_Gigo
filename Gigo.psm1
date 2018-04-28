@@ -1,4 +1,5 @@
-
+[ValidateSet('Capture', 'Run')]
+[string]$Script:Mode = 'Run'
 
 
 $PackagePath = Join-Path $PSScriptRoot 'Packages'
